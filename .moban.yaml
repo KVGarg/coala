@@ -59,6 +59,7 @@ targets:
   - .editorconfig: .editorconfig.jj2
   - setup.py: core-setup.py.jj2
   - setup.cfg: core-setup.cfg.jj2
+  - coalib/misc/Asyncio.py: core-setup.cfg.jj2
   - requirements.txt: requirements.txt.jj2
   - test-requirements.txt: core-test-requirements.txt.jj2
   - tests/conftest.py: conftest.py
